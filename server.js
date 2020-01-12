@@ -1,0 +1,7 @@
+
+		function ping()
+		{
+			return "pong";
+		}
+
+ 
