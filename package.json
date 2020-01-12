@@ -1,6 +1,6 @@
 {
   "name": "payspec-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A library for interacting with a local payspec-server to create and maintain invoices",
   "main": "index.js",
   "scripts": {
